@@ -5,7 +5,7 @@
 package com.mycompany.namaproject;
 
 /**
- *
+ *Untuk soal no 1 tugas 3 lap pbo
  * @author Nitiya
  */
 public class Gui extends javax.swing.JFrame {
